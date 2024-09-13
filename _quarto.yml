@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "david_website_sta304"
+ navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

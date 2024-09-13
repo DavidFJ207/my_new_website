@@ -1,0 +1,6 @@
+---
+title: "Welcome to David's Website"
+author: "David"
+---
+
+Welcome to my personal website! This is where I share my projects, insights, and more.
