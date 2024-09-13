@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "david_website_sta304"
- navbar:
+  title: "David's Website"
+  navbar:
     left:
       - href: index.qmd
         text: Home
@@ -16,4 +17,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+
